@@ -1,0 +1,34 @@
+{
+    "name": "@dt/itachi_core",
+    "version": "1.0.0",
+    "description": "core",
+    "main": "dist/core.js",
+    "scripts": {
+        "build": "tsc",
+        "lint": "eslint src --ext .ts",
+        "lint:fix": "eslint --fix src --ext .ts",
+        "start": "tsc && node dist/index.js",
+        "dev": "ts-node src/index.ts",
+        "product": "node dist/index.js",
+        "clean": "rm -rf \"./dist\" \"./coverage\"",
+        "test": "jest --coverage"
+    },
+    "keywords": [
+        "orm"
+    ],
+    "author": "Hou Kai <houkai93@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/jest": "^24.9.0",
+        "@types/node": "^13.7.0",
+        "jest": "^24.9.0",
+        "nodemon": "^2.0.2",
+        "ts-jest": "^24.3.0",
+        "ts-node": "^8.6.1",
+        "tsconfig-paths": "^3.9.0",
+        "typescript": "^3.7.5"
+    },
+    "dependencies": {
+        "@dt/itachi_util": "1.0.0"
+    }
+}
