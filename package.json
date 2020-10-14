@@ -1,5 +1,5 @@
 {
-    "name": "@dt/itachi_core",
+    "name": "itachi_core",
     "version": "1.0.0",
     "description": "core",
     "main": "dist/core.js",
