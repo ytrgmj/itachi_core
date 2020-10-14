@@ -1,4 +1,4 @@
-import {JsonUtil} from '@dt/itachi_util'
+import {JsonUtil} from 'itachi_util'
 
 var map = {
     test:{

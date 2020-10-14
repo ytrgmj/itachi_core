@@ -1,4 +1,4 @@
-import {Context} from '@dt/itachi_util'
+import {Context} from 'itachi_util'
 import path from 'path'
 
 import FileUtil from '../util/FileUtil'

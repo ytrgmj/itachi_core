@@ -2,7 +2,7 @@
 /**
 一个四则混合运算的公式
 */
-import {ArrayUtil,JsonUtil} from "@dt/itachi_util";
+import {ArrayUtil,JsonUtil} from "itachi_util";
 import IToVal from "./inf/IToVal";
 
 var id = 0

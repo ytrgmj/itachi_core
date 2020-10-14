@@ -1,4 +1,4 @@
-import {Component} from '@dt/itachi_util'
+import {Component} from 'itachi_util'
 import AbsOrder from './AbsOrder'
 
 @Component('订单')

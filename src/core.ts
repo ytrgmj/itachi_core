@@ -10,7 +10,7 @@ export {default as MapEvent} from './bus/event/MapEvent'
 export {default as FileContext} from './context/FileContext'
 
 export {JsonUtil,Server,Bean,Component,Context,TimezoneServer,
-    BaseDomain,BasePojo,IConfigFac} from '@dt/itachi_util'
+    BaseDomain,BasePojo,IConfigFac} from 'itachi_util'
 
 export {default as Formula} from './formula/Formula'
 export {default as FormulaParser} from './formula/parser/FormulaParser'

@@ -1,4 +1,4 @@
-import { Context } from '@dt/itachi_util';
+import { Context } from 'itachi_util';
 export default class FileContext extends Context {
     loadFromPath(filePath: string): void;
 }

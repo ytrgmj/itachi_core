@@ -1,6 +1,6 @@
 {
     "name": "itachi_core",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "core",
     "main": "dist/core.js",
     "scripts": {
@@ -29,6 +29,6 @@
         "typescript": "^3.7.5"
     },
     "dependencies": {
-        "@dt/itachi_util": "1.0.0"
+        "itachi_util": "1.0.2"
     }
 }

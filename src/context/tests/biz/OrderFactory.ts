@@ -1,4 +1,4 @@
-import { Server, Bean } from "@dt/itachi_util";
+import { Server, Bean } from "itachi_util";
 import AbsOrder from "./AbsOrder";
 
 @Server()

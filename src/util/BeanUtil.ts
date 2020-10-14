@@ -12,7 +12,7 @@ import { ArrayUtil } from './ArrayUtil'
 import { AnyObject } from '../interface'
 
 import _ from 'lodash'
-import { Bean } from '@dt/itachi_util'
+import { Bean } from 'itachi_util'
 
 export class BeanUtil {
     /**

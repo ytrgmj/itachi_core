@@ -1,1 +1,1 @@
-export { ArrayUtil } from '@dt/itachi_util';
+export { ArrayUtil } from 'itachi_util';

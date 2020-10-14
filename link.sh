@@ -1,1 +1,1 @@
-npm link @dt/itachi_util
+npm link itachi_util

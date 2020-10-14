@@ -22,7 +22,7 @@ var MapEvent_1 = require("./bus/event/MapEvent");
 Object.defineProperty(exports, "MapEvent", { enumerable: true, get: function () { return MapEvent_1.default; } });
 var FileContext_1 = require("./context/FileContext");
 Object.defineProperty(exports, "FileContext", { enumerable: true, get: function () { return FileContext_1.default; } });
-var itachi_util_1 = require("@dt/itachi_util");
+var itachi_util_1 = require("itachi_util");
 Object.defineProperty(exports, "JsonUtil", { enumerable: true, get: function () { return itachi_util_1.JsonUtil; } });
 Object.defineProperty(exports, "Server", { enumerable: true, get: function () { return itachi_util_1.Server; } });
 Object.defineProperty(exports, "Bean", { enumerable: true, get: function () { return itachi_util_1.Bean; } });

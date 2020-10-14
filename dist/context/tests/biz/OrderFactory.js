@@ -6,7 +6,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const itachi_util_1 = require("@dt/itachi_util");
+const itachi_util_1 = require("itachi_util");
 let OrderFactory = class OrderFactory {
     test(type) {
         console.log('11111111');

@@ -1,3 +1,3 @@
-import {LogHelp} from '@dt/itachi_util'
+import {LogHelp} from 'itachi_util'
 
 export default  LogHelp;

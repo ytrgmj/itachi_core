@@ -1,4 +1,4 @@
-import { ArrayUtil } from "@dt/itachi_util";
+import { ArrayUtil } from "itachi_util";
 
 export default class ProxyUtil{
     /**
